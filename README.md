@@ -1,4 +1,4 @@
-# RocketQ Desenvolvido sozinho por Lucas Rafael Araújo Lima
+# RocketQ Desenvolvido por Lucas Rafael Araújo Lima
 
 
 ## 🚀 Tecnologias
